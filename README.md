@@ -1,0 +1,1 @@
+Deploying vite-react-app with netlify page
