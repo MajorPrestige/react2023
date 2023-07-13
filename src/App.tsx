@@ -1,6 +1,6 @@
 import { ReactComponent as Logo } from './assets/react.svg';
 
-const App = () => {
+const App = () => {  
   return (
     <div>
       Hello World
